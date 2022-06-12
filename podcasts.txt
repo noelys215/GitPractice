@@ -5,5 +5,8 @@ THe Dropout
 Flagrant II
 Our Universe
 Stuff You Should Know
+<<<<<<< HEAD
 Stuff They Don't Want You to Know
+=======
+>>>>>>> main
 Stuff They Don't Want You to Know
